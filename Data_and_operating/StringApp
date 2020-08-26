@@ -1,0 +1,15 @@
+public class StringApp {
+  public static void(String[] args) {
+    // String
+    System.out.println("Hello World");
+    
+    // Character
+    System.out.println('H');
+    
+    // New line
+    System.out.println("Hello \nWorld");
+    
+    // Escape
+    System.out.println("Hello \"World\"");
+   }
+  }
