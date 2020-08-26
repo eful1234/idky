@@ -1,0 +1,19 @@
+public class Number {
+  public static void(String[] args) {
+    //6
+    System.out.println(6);
+    
+    //add
+    System.out.println(6+4);
+    
+    //subtract
+    System.out.println(6-4);
+    
+    //multiple
+    System.out.println(6*4);
+    
+    //divide
+    System.out.println(6/4);
+    
+    //pi
+    System.out.println(Math.PI);
