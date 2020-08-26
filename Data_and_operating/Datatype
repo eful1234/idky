@@ -1,0 +1,6 @@
+Public class Datatype {
+  Public static void(String[] args) {
+    System.out.println(6); // number
+    System.out.println("6"); // String
+    
+    System.out.println("1111".length());
